@@ -1,7 +1,7 @@
 # Arrays 
 ## 1.Create array with 100 elements
 To create an array add brackets [] after the variable you're declaring with the desired number
-of elements your would like the array to contain.
+of elements you would like the array to contain.
 ```c++
 int a[100];
 #Integer array with 100 elements
@@ -15,7 +15,7 @@ cout << sizeof(a[0])<< " bytes" << endl;
 #Each element in this example will be the same size as an integer which is 4 bytes.
 ```
 ## 3.Steps for opperations for an array containing 100 elements 
-Reading an array would tale a single step since accesing an array allows you to access
+Reading an array would take a single step since accessing an array allows you to access
 elements at a specific index. ex a[i]
 
 Searching for a value not contained in the array would require looping through each element
@@ -43,7 +43,7 @@ cout<<a<<endl;
 #The console output would be the memory location of the interger array a.
 ```
    
-https://youtu.be/1u2259cV1F4?si=sFaKWFnKnuT_fepq
+https://youtu.be/czEPLaPTXTM
 
 
 

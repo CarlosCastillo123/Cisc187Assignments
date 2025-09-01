@@ -31,7 +31,7 @@ to shift the remaining elements.
 
 Deletion at the end of an array will take one step.
 ## 4. Search
-A search for how many times "apple" id found in the array would require 100 steps since you
+A search for how many times "apple" is found in the array would require 100 steps since you
 need to loop through the whole array.
 ## 5. Memory address
 A memory address can be found by printing the array variable to the console.

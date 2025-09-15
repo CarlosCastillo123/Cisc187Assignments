@@ -46,3 +46,5 @@ def every_other(array)
 end
 ```
 In this functions the equation of the steps can be represented as C*N where N is the size of the array and C represents the amount of even indicies. The efficencey of this function in Big O Notation would be O(n) ignoring the leading coefficent representing linear time complexity.
+## Video Link
+https://youtu.be/wxOBJ2NuG-0

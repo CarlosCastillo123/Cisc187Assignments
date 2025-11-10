@@ -70,3 +70,5 @@ void dfs(int graph[6][6], int node_length, int start) {
 ## Compare with Big O Notation
 Both algorithms have the same time complexity of O(V+E). For the purpouse of using adjacency matrix the time complexity can be O(n^2).
 
+## Video 
+https://www.youtube.com/watch?v=qZGWBIoe3D0

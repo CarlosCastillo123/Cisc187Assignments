@@ -187,3 +187,6 @@ int consecutiveSequence(vector<int> &arg) {
 }
 ```
 This function uses a hash table store values of array then uses O(1) search opperations to find sequential numbers. The longest sequence recorded is returned. Since the function loops though once followed by O(1) searches the resulting time complexity is O(2N) which is simplified to O(N)
+
+## Video
+https://youtu.be/ltcYGqPpWEI
